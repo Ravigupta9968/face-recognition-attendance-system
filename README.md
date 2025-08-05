@@ -19,6 +19,26 @@ and displays recognized faces with a **green box** and unknown faces with a **re
 - face_recognition library
 - NumPy
 
+## 📂 Project Structure
+```
+face-recognition-attendance-system/
+│
+├── Images/ 
+│ ├── Narendra Modi/
+│ │ ├── img1.jpg
+│ │ ├── img2.jpg
+│ ├── Dhoni/
+│ │ ├── img1.jpg
+│ │ ├── img2.jpg
+│ ├── Virat Kholi/
+│ │ ├── img1.jpg
+│ │ ├── img2.jpg
+│
+├── main.py 
+├── Attendance.csv 
+├── requirements.txt 
+└── README.md 
+```
 ## 📦 Installation
 
 ### 1. Clone the repository
